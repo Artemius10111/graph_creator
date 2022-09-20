@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1202</width>
+    <height>946</height>
+   </rect>
+  </property>
+  <property name="sizePolicy">
+   <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+    <horstretch>0</horstretch>
+    <verstretch>0</verstretch>
+   </sizepolicy>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <property name="autoFillBackground">
+   <bool>false</bool>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <layout class="QHBoxLayout" name="horizontalLayout">
+    <item>
+     <widget class="QStackedWidget" name="StackedWidget">
+      <property name="styleSheet">
+       <string notr="true">QStackedWidget {
+	background-color: rgb(134, 134, 134)
+}</string>
+      </property>
+      <property name="currentIndex">
+       <number>0</number>
+      </property>
+      <widget class="QWidget" name="First_Page">
+       <layout class="QVBoxLayout" name="verticalLayout_3">
+        <item>
+         <layout class="QFormLayout" name="formLayout_3">
+          <item row="0" column="0">
+           <layout class="QVBoxLayout" name="FP_VerticalLayout1">
+            <item>
+             <widget class="QPushButton" name="FP_VL1_PushButton">
+              <property name="text">
+               <string>&lt;&lt;&lt; Алгоритмизация графов</string>
+              </property>
+             </widget>
+            </item>
+           </layout>
+          </item>
+          <item row="0" column="1">
+           <layout class="QHBoxLayout" name="horizontalLayout_2">
+            <item>
+             <widget class="QPushButton" name="FP_VP3_CheckGraphBtn">
+              <property name="text">
+               <string>Проверить граф</string>
+              </property>
+             </widget>
+            </item>
+            <item>
+             <widget class="QPushButton" name="FP_VP3_GreatGraphExampleBtn">
+              <property name="text">
+               <string>Пример правильного графа</string>
+              </property>
+             </widget>
+            </item>
+           </layout>
+          </item>
+          <item row="1" column="1">
+           <layout class="QVBoxLayout" name="verticalLayout_2">
+            <item>
+             <widget class="QLabel" name="label">
+              <property name="enabled">
+               <bool>true</bool>
+              </property>
+              <property name="text">
+               <string>Масштаб элемента графа</string>
+              </property>
+             </widget>
+            </item>
+            <item>
+             <widget class="QPushButton" name="pushButton_2">
+              <property name="text">
+               <string>+</string>
+              </property>
+             </widget>
+            </item>
+            <item>
+             <widget class="QPushButton" name="pushButton">
+              <property name="text">
+               <string>-</string>
+              </property>
+             </widget>
+            </item>
+           </layout>
+          </item>
+          <item row="2" column="1">
+           <layout class="QHBoxLayout" name="horizontalLayout_3">
+            <item>
+             <widget class="QPushButton" name="pushButton_3">
+              <property name="text">
+               <string>Очистить карту графов</string>
+              </property>
+             </widget>
+            </item>
+            <item>
+             <widget class="QPushButton" name="pushButton_4">
+              <property name="text">
+               <string>Удалить элемент графа</string>
+              </property>
+             </widget>
+            </item>
+            <item>
+             <layout class="QVBoxLayout" name="verticalLayout_4">
+              <item>
+               <widget class="QLineEdit" name="FP_VP2_LineEdit">
+                <property name="text">
+                 <string/>
+                </property>
+                <property name="placeholderText">
+                 <string>Название элемента графа</string>
+                </property>
+                <property name="clearButtonEnabled">
+                 <bool>true</bool>
+                </property>
+               </widget>
+              </item>
+              <item>
+               <widget class="QPushButton" name="FP_VP2_PushButton">
+                <property name="text">
+                 <string>Создать элемент графа</string>
+                </property>
+               </widget>
+              </item>
+             </layout>
+            </item>
+           </layout>
+          </item>
+         </layout>
+        </item>
+       </layout>
+      </widget>
+      <widget class="QWidget" name="Second_Page">
+       <layout class="QVBoxLayout" name="verticalLayout">
+        <item>
+         <layout class="QFormLayout" name="formLayout_2">
+          <item row="0" column="0">
+           <layout class="QFormLayout" name="formLayout">
+            <item row="0" column="0">
+             <widget class="QPushButton" name="SP_HL_VL_VL_PushButton">
+              <property name="enabled">
+               <bool>true</bool>
+              </property>
+              <property name="text">
+               <string>&lt;&lt;&lt; Редактор графов</string>
+              </property>
+             </widget>
+            </item>
+            <item row="1" column="0">
+             <widget class="QPushButton" name="SP_HL_VL_VL2_PushButton">
+              <property name="text">
+               <string>Обойти граф</string>
+              </property>
+             </widget>
+            </item>
+           </layout>
+          </item>
+          <item row="0" column="1">
+           <layout class="QHBoxLayout" name="SP_HL_HorizontalLayout">
+            <item>
+             <layout class="QVBoxLayout" name="SP_HL_HL_VerticalLayout">
+              <item>
+               <widget class="QLabel" name="SP_HL_HL_VL1_Label">
+                <property name="text">
+                 <string>Выбрать цвет стрелки:</string>
+                </property>
+               </widget>
+              </item>
+              <item>
+               <widget class="QListWidget" name="SP_HL_HL_VL1_ListWidget">
+                <item>
+                 <property name="text">
+                  <string>Красный</string>
+                 </property>
+                </item>
+                <item>
+                 <property name="text">
+                  <string>Синий</string>
+                 </property>
+                </item>
+                <item>
+                 <property name="text">
+                  <string>Зеленый</string>
+                 </property>
+                </item>
+                <item>
+                 <property name="text">
+                  <string>Желтый </string>
+                 </property>
+                </item>
+                <item>
+                 <property name="text">
+                  <string>Розовый</string>
+                 </property>
+                </item>
+                <item>
+                 <property name="text">
+                  <string>Фиолетовый</string>
+                 </property>
+                </item>
+                <item>
+                 <property name="text">
+                  <string>Голубой</string>
+                 </property>
+                </item>
+                <item>
+                 <property name="text">
+                  <string>Пурпурный</string>
+                 </property>
+                </item>
+                <item>
+                 <property name="text">
+                  <string>Салатовый</string>
+                 </property>
+                </item>
+                <item>
+                 <property name="text">
+                  <string>Коричневый</string>
+                 </property>
+                </item>
+               </widget>
+              </item>
+              <item>
+               <widget class="QPushButton" name="SP_HL_HL_VL1_ChangeColorBtn">
+                <property name="text">
+                 <string>Выбрать свой цвет</string>
+                </property>
+               </widget>
+              </item>
+             </layout>
+            </item>
+            <item>
+             <layout class="QVBoxLayout" name="SP_HL_HL_VerticalLayout3">
+              <item>
+               <widget class="QLabel" name="SP_HL_HL_VL3_Label">
+                <property name="text">
+                 <string>Выбрать тип обхода дерева:</string>
+                </property>
+               </widget>
+              </item>
+              <item>
+               <widget class="QListWidget" name="SP_HL_HL_VL3_ListWidget"/>
+              </item>
+             </layout>
+            </item>
+            <item>
+             <layout class="QVBoxLayout" name="SP_HL_HL_VerticalLayout_2">
+              <item>
+               <widget class="QLabel" name="SP_HL_HL_VL2_Label">
+                <property name="text">
+                 <string>Выбрать тип перемещения стрелок:</string>
+                </property>
+               </widget>
+              </item>
+              <item>
+               <widget class="QListWidget" name="SP_HL_HL_VL2_ListWidget"/>
+              </item>
+             </layout>
+            </item>
+           </layout>
+          </item>
+          <item row="1" column="0" colspan="2">
+           <widget class="QMdiArea" name="mdiArea_2"/>
+          </item>
+         </layout>
+        </item>
+       </layout>
+      </widget>
+     </widget>
+    </item>
+    <item>
+     <layout class="QGridLayout" name="gridLayout">
+      <property name="sizeConstraint">
+       <enum>QLayout::SetNoConstraint</enum>
+      </property>
+      <item row="1" column="0">
+       <widget class="QLabel" name="VP_Label">
+        <property name="text">
+         <string>Актуальный граф: graph.json</string>
+        </property>
+       </widget>
+      </item>
+      <item row="2" column="0">
+       <widget class="QPushButton" name="pushButton_5">
+        <property name="sizePolicy">
+         <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+          <horstretch>0</horstretch>
+          <verstretch>0</verstretch>
+         </sizepolicy>
+        </property>
+        <property name="text">
+         <string>Сохранить граф</string>
+        </property>
+       </widget>
+      </item>
+      <item row="3" column="0">
+       <widget class="QPushButton" name="VP_UploadGraphButton">
+        <property name="text">
+         <string>Загрузить граф (.json)</string>
+        </property>
+       </widget>
+      </item>
+      <item row="4" column="0">
+       <widget class="QPushButton" name="VP_PushButton1">
+        <property name="text">
+         <string>Ваши графы</string>
+        </property>
+       </widget>
+      </item>
+      <item row="0" column="0">
+       <widget class="QPushButton" name="Info">
+        <property name="enabled">
+         <bool>true</bool>
+        </property>
+        <property name="cursor">
+         <cursorShape>ArrowCursor</cursorShape>
+        </property>
+        <property name="text">
+         <string>Справка</string>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>1202</width>
+     <height>21</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

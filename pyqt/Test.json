@@ -1,0 +1,121 @@
+{
+    "elements": [
+        "\u042d\u043b\u0435\u043c\u0435\u043d\u0442 1",
+        "\u042d\u043b\u0435\u043c\u0435\u043d\u0442 6",
+        "\u042d\u043b\u0435\u043c\u0435\u043d\u0442 5",
+        "\u042d\u043b\u0435\u043c\u0435\u043d\u0442 4",
+        "\u042d\u043b\u0435\u043c\u0435\u043d\u0442 3",
+        "\u042d\u043b\u0435\u043c\u0435\u043d\u0442 2"
+    ],
+    "Graph_pair1": [
+        {
+            "\u042d\u043b\u0435\u043c\u0435\u043d\u0442 1": {
+                "graph_text": "\u042d\u043b\u0435\u043c\u0435\u043d\u0442 1",
+                "graph_id_name": "\u0413\u0440\u0430\u0444 1",
+                "graph_x": 395,
+                "graph_y": 265,
+                "graph_width": 100,
+                "graph_height": 30
+            }
+        },
+        {
+            "\u042d\u043b\u0435\u043c\u0435\u043d\u0442 2": {
+                "graph_text": "\u042d\u043b\u0435\u043c\u0435\u043d\u0442 2",
+                "graph_id_name": "\u0413\u0440\u0430\u0444 2",
+                "graph_x": 269,
+                "graph_y": 336,
+                "graph_width": 100,
+                "graph_height": 30
+            }
+        }
+    ],
+    "task": "\u0422\u0435\u0441\u0442\u043e\u0432\u043e\u0435 \u0437\u0430\u0434\u0430\u043d\u0438\u0435, \u0441\u043e\u0437\u0434\u0430\u0439\u0442\u0435 \u0433\u0440\u0430\u0444.",
+    "Graph_pair2": [
+        {
+            "\u042d\u043b\u0435\u043c\u0435\u043d\u0442 1": {
+                "graph_text": "\u042d\u043b\u0435\u043c\u0435\u043d\u0442 1",
+                "graph_id_name": "\u0413\u0440\u0430\u0444 1",
+                "graph_x": 395,
+                "graph_y": 265,
+                "graph_width": 100,
+                "graph_height": 30
+            }
+        },
+        {
+            "\u042d\u043b\u0435\u043c\u0435\u043d\u0442 3": {
+                "graph_text": "\u042d\u043b\u0435\u043c\u0435\u043d\u0442 3",
+                "graph_id_name": "\u0413\u0440\u0430\u0444 3",
+                "graph_x": 400,
+                "graph_y": 340,
+                "graph_width": 100,
+                "graph_height": 30
+            }
+        }
+    ],
+    "Graph_pair3": [
+        {
+            "\u042d\u043b\u0435\u043c\u0435\u043d\u0442 1": {
+                "graph_text": "\u042d\u043b\u0435\u043c\u0435\u043d\u0442 1",
+                "graph_id_name": "\u0413\u0440\u0430\u0444 1",
+                "graph_x": 395,
+                "graph_y": 265,
+                "graph_width": 100,
+                "graph_height": 30
+            }
+        },
+        {
+            "\u042d\u043b\u0435\u043c\u0435\u043d\u0442 4": {
+                "graph_text": "\u042d\u043b\u0435\u043c\u0435\u043d\u0442 4",
+                "graph_id_name": "\u0413\u0440\u0430\u0444 4",
+                "graph_x": 538,
+                "graph_y": 334,
+                "graph_width": 100,
+                "graph_height": 30
+            }
+        }
+    ],
+    "Graph_pair4": [
+        {
+            "\u042d\u043b\u0435\u043c\u0435\u043d\u0442 5": {
+                "graph_text": "\u042d\u043b\u0435\u043c\u0435\u043d\u0442 5",
+                "graph_id_name": "\u0413\u0440\u0430\u0444 5",
+                "graph_x": 203,
+                "graph_y": 408,
+                "graph_width": 100,
+                "graph_height": 30
+            }
+        },
+        {
+            "\u042d\u043b\u0435\u043c\u0435\u043d\u0442 2": {
+                "graph_text": "\u042d\u043b\u0435\u043c\u0435\u043d\u0442 2",
+                "graph_id_name": "\u0413\u0440\u0430\u0444 2",
+                "graph_x": 269,
+                "graph_y": 336,
+                "graph_width": 100,
+                "graph_height": 30
+            }
+        }
+    ],
+    "Graph_pair5": [
+        {
+            "\u042d\u043b\u0435\u043c\u0435\u043d\u0442 6": {
+                "graph_text": "\u042d\u043b\u0435\u043c\u0435\u043d\u0442 6",
+                "graph_id_name": "\u0413\u0440\u0430\u0444 6",
+                "graph_x": 358,
+                "graph_y": 413,
+                "graph_width": 100,
+                "graph_height": 30
+            }
+        },
+        {
+            "\u042d\u043b\u0435\u043c\u0435\u043d\u0442 2": {
+                "graph_text": "\u042d\u043b\u0435\u043c\u0435\u043d\u0442 2",
+                "graph_id_name": "\u0413\u0440\u0430\u0444 2",
+                "graph_x": 269,
+                "graph_y": 336,
+                "graph_width": 100,
+                "graph_height": 30
+            }
+        }
+    ]
+}

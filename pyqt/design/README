@@ -1,0 +1,8 @@
+Для запуска необходимо:
+1. Активировать виртуальное окружение для Windows - ".venv\Scripts\activate.ps1"
+"Set-ExecutionPolicy RemoteSigned -Scope CurrentUser" - если не работает активация виртуального окружения
+2. Прописать 'pip install -r requirements.txt' в директории .venv
+3. Запустить файл main.py в директории .venv\pyqt через "python main.py"
+
+Для просмотра дизайна и его настройки необходимо использовать Qt Designer
+Преобразовать .ui (файл дизайна) в .py - pyuic5.exe -x "файл.ui" -o "файл.py"

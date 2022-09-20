@@ -1,0 +1,190 @@
+{
+    "elements": [
+        "\u041d\u0435\u043e\u0440\u0433\u0430\u043d. \u0432-\u0432\u0430 3",
+        "\u041d\u0443\u043a\u043b. \u043a-\u0442\u044b 9",
+        "\u041e\u0440\u0433\u0430\u043d. \u0432-\u0432\u0430 2",
+        "\u041b\u0438\u043f\u0438\u0434\u044b 8",
+        "\u041a\u043b\u0435\u0442\u043a\u0430 1",
+        "\u0423\u0433\u043b\u0435\u0432\u043e\u0434\u044b 7",
+        "\u0411\u0435\u043b\u043a\u0438 6",
+        "\u041c\u0438\u043d\u0435\u0440. \u0441\u043e\u043b\u0438 5",
+        "\u0412\u043e\u0434\u0430 4"
+    ],
+    "Graph_pair1": [
+        {
+            "\u041a\u043b\u0435\u0442\u043a\u0430 1": {
+                "graph_text": "\u041a\u043b\u0435\u0442\u043a\u0430 1",
+                "graph_id_name": "\u0413\u0440\u0430\u0444 1",
+                "graph_x": 353,
+                "graph_y": 266,
+                "graph_width": 100,
+                "graph_height": 30
+            }
+        },
+        {
+            "\u041d\u0435\u043e\u0440\u0433\u0430\u043d. \u0432-\u0432\u0430 3": {
+                "graph_text": "\u041d\u0435\u043e\u0440\u0433\u0430\u043d. \u0432-\u0432\u0430 3",
+                "graph_id_name": "\u0413\u0440\u0430\u0444 3",
+                "graph_x": 203,
+                "graph_y": 301,
+                "graph_width": 100,
+                "graph_height": 30
+            }
+        }
+    ],
+    "task": "\u0421\u043e\u0441\u0442\u0430\u0432\u044c\u0442\u0435 \u0433\u0440\u0430\u0444 \u043d\u0430 \u0442\u0435\u043c\u0443 \" \u0425\u0438\u043c\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0441\u043e\u0441\u0442\u0430\u0432 \u043a\u043b\u0435\u0442\u043a\u0438\".",
+    "Graph_pair2": [
+        {
+            "\u041d\u0435\u043e\u0440\u0433\u0430\u043d. \u0432-\u0432\u0430 3": {
+                "graph_text": "\u041d\u0435\u043e\u0440\u0433\u0430\u043d. \u0432-\u0432\u0430 3",
+                "graph_id_name": "\u0413\u0440\u0430\u0444 3",
+                "graph_x": 203,
+                "graph_y": 301,
+                "graph_width": 100,
+                "graph_height": 30
+            }
+        },
+        {
+            "\u0412\u043e\u0434\u0430 4": {
+                "graph_text": "\u0412\u043e\u0434\u0430 4",
+                "graph_id_name": "\u0413\u0440\u0430\u0444 4",
+                "graph_x": 113,
+                "graph_y": 363,
+                "graph_width": 100,
+                "graph_height": 30
+            }
+        }
+    ],
+    "Graph_pair3": [
+        {
+            "\u041d\u0435\u043e\u0440\u0433\u0430\u043d. \u0432-\u0432\u0430 3": {
+                "graph_text": "\u041d\u0435\u043e\u0440\u0433\u0430\u043d. \u0432-\u0432\u0430 3",
+                "graph_id_name": "\u0413\u0440\u0430\u0444 3",
+                "graph_x": 203,
+                "graph_y": 301,
+                "graph_width": 100,
+                "graph_height": 30
+            }
+        },
+        {
+            "\u041c\u0438\u043d\u0435\u0440. \u0441\u043e\u043b\u0438 5": {
+                "graph_text": "\u041c\u0438\u043d\u0435\u0440. \u0441\u043e\u043b\u0438 5",
+                "graph_id_name": "\u0413\u0440\u0430\u0444 5",
+                "graph_x": 272,
+                "graph_y": 366,
+                "graph_width": 100,
+                "graph_height": 30
+            }
+        }
+    ],
+    "Graph_pair4": [
+        {
+            "\u041a\u043b\u0435\u0442\u043a\u0430 1": {
+                "graph_text": "\u041a\u043b\u0435\u0442\u043a\u0430 1",
+                "graph_id_name": "\u0413\u0440\u0430\u0444 1",
+                "graph_x": 353,
+                "graph_y": 266,
+                "graph_width": 100,
+                "graph_height": 30
+            }
+        },
+        {
+            "\u041e\u0440\u0433\u0430\u043d. \u0432-\u0432\u0430 2": {
+                "graph_text": "\u041e\u0440\u0433\u0430\u043d. \u0432-\u0432\u0430 2",
+                "graph_id_name": "\u0413\u0440\u0430\u0444 2",
+                "graph_x": 546,
+                "graph_y": 313,
+                "graph_width": 100,
+                "graph_height": 30
+            }
+        }
+    ],
+    "Graph_pair5": [
+        {
+            "\u041e\u0440\u0433\u0430\u043d. \u0432-\u0432\u0430 2": {
+                "graph_text": "\u041e\u0440\u0433\u0430\u043d. \u0432-\u0432\u0430 2",
+                "graph_id_name": "\u0413\u0440\u0430\u0444 2",
+                "graph_x": 546,
+                "graph_y": 313,
+                "graph_width": 100,
+                "graph_height": 30
+            }
+        },
+        {
+            "\u0411\u0435\u043b\u043a\u0438 6": {
+                "graph_text": "\u0411\u0435\u043b\u043a\u0438 6",
+                "graph_id_name": "\u0413\u0440\u0430\u0444 6",
+                "graph_x": 407,
+                "graph_y": 420,
+                "graph_width": 100,
+                "graph_height": 30
+            }
+        }
+    ],
+    "Graph_pair6": [
+        {
+            "\u041d\u0443\u043a\u043b. \u043a-\u0442\u044b 9": {
+                "graph_text": "\u041d\u0443\u043a\u043b. \u043a-\u0442\u044b 9",
+                "graph_id_name": "\u0413\u0440\u0430\u0444 9",
+                "graph_x": 515,
+                "graph_y": 379,
+                "graph_width": 100,
+                "graph_height": 30
+            }
+        },
+        {
+            "\u041e\u0440\u0433\u0430\u043d. \u0432-\u0432\u0430 2": {
+                "graph_text": "\u041e\u0440\u0433\u0430\u043d. \u0432-\u0432\u0430 2",
+                "graph_id_name": "\u0413\u0440\u0430\u0444 2",
+                "graph_x": 546,
+                "graph_y": 313,
+                "graph_width": 100,
+                "graph_height": 30
+            }
+        }
+    ],
+    "Graph_pair7": [
+        {
+            "\u041e\u0440\u0433\u0430\u043d. \u0432-\u0432\u0430 2": {
+                "graph_text": "\u041e\u0440\u0433\u0430\u043d. \u0432-\u0432\u0430 2",
+                "graph_id_name": "\u0413\u0440\u0430\u0444 2",
+                "graph_x": 546,
+                "graph_y": 313,
+                "graph_width": 100,
+                "graph_height": 30
+            }
+        },
+        {
+            "\u041b\u0438\u043f\u0438\u0434\u044b 8": {
+                "graph_text": "\u041b\u0438\u043f\u0438\u0434\u044b 8",
+                "graph_id_name": "\u0413\u0440\u0430\u0444 8",
+                "graph_x": 607,
+                "graph_y": 428,
+                "graph_width": 100,
+                "graph_height": 30
+            }
+        }
+    ],
+    "Graph_pair8": [
+        {
+            "\u0423\u0433\u043b\u0435\u0432\u043e\u0434\u044b 7": {
+                "graph_text": "\u0423\u0433\u043b\u0435\u0432\u043e\u0434\u044b 7",
+                "graph_id_name": "\u0413\u0440\u0430\u0444 7",
+                "graph_x": 672,
+                "graph_y": 377,
+                "graph_width": 100,
+                "graph_height": 30
+            }
+        },
+        {
+            "\u041e\u0440\u0433\u0430\u043d. \u0432-\u0432\u0430 2": {
+                "graph_text": "\u041e\u0440\u0433\u0430\u043d. \u0432-\u0432\u0430 2",
+                "graph_id_name": "\u0413\u0440\u0430\u0444 2",
+                "graph_x": 546,
+                "graph_y": 313,
+                "graph_width": 100,
+                "graph_height": 30
+            }
+        }
+    ]
+}
